@@ -1,5 +1,5 @@
 # PokerProject
-==============
+-----------------
 In the Poker project, we supposed 4 players playing a 5-cards-Stud-poker game. The deck will randomly select 5 cards for each player from a set of poker cards. Following the rules, the code will compare each player's points. The player who has the highest points will be called Winner. Finally, the displayer will post the results with pictures of cards and the types of cards by their sides, and the Winner will have red text on its side.
 ## How to import this project to your device:
 ---------------------------------------------
